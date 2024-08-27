@@ -53,8 +53,20 @@ transition: fade-out
 # What is Slidev?
 
 Slidev is a slides maker and presenter designed for developers, consist of the following features
+这是一门涵盖技术/成长/管理多方面内容的课程，不仅适合于刚入行的新同学，同样也适合于经验丰富的专家，作者给了很多中肯的建议，物超所值
 
-- 📝 **Text-based** - focus on the content with Markdown, and then style them later
+- 📝 **帮助** - 对工作/职业中有帮助的地方
+   +  工作：思考方式。如重试，限流设计
+   +  沟通：如何向上/向下沟通
+   +  建议：程序员修养列举出了许多标准用于自检
+   +  推荐读物：每个章节都有推荐的读物(技术资源集散地)
+- https://blog.codinghorror.com/recommended-reading-for-developers/
+- https://www.paulgraham.com/articles.html
+- https://martinfowler.com/
+- https://www.brendangregg.com/index.html
+- https://hackernoon.com/
+
+
 - 🎨 **Themable** - themes can be shared and re-used as npm packages
 - 🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
 - 🤹 **Interactive** - embed Vue components to enhance your expressions
